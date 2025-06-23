@@ -21,7 +21,7 @@ This project is an educational platform offering a variety of online courses, al
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Arham-Dev1/ACADEMIA.git
+   git clone https://github.com/Naveed-Devcodes/ACADEMIA.git
    ```
 2. Navigate to the project directory:
    ```
